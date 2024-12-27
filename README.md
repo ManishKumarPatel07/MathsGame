@@ -21,14 +21,14 @@ Maths Game for Children is an interactive web-based game developed using **HTML*
 <img scr="https://github.com/ManishKumarPatel07/mathsgame/blob/main/MATHsNINJA/img/homepage.png">
 
 3. **Gameplay**:
-<img scr="https://github.com/ManishKumarPatel07/mathsgame/blob/main/MATHsNINJA/img/mul.png">
+<img src="https://github.com/ManishKumarPatel07/mathsgame/blob/main/MATHsNINJA/img/mul.png">
 
-<img scr="https://github.com/ManishKumarPatel07/mathsgame/blob/main/MATHsNINJA/img/add.png">
+<img src="https://github.com/ManishKumarPatel07/mathsgame/blob/main/MATHsNINJA/img/add.png">
 
-<img scr="https://github.com/ManishKumarPatel07/mathsgame/blob/main/MATHsNINJA/img/sub.png">
+<img src="https://github.com/ManishKumarPatel07/mathsgame/blob/main/MATHsNINJA/img/sub.png">
 
 4. **Scoreboard**:
-<img scr="https://github.com/ManishKumarPatel07/mathsgame/blob/main/MATHsNINJA/img/score.png">
+<img src="https://github.com/ManishKumarPatel07/mathsgame/blob/main/MATHsNINJA/img/score.png">
 
 ### 📖 How to Play  
 1. Click on the **Start Game** button to begin.  
