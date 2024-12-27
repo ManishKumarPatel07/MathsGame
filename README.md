@@ -40,6 +40,5 @@ Maths Game for Children is an interactive web-based game developed using **HTML*
 
 ### 📂 Project Setup  
 1. Clone this repository:  
-   ```bash
-   git clone ttps://github.com/<your-username>/mathsgame.git
+   git clone https://github.com/ManishKumarPatel07/mathsgame.git
    
