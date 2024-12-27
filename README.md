@@ -18,7 +18,7 @@ Maths Game for Children is an interactive web-based game developed using **HTML*
 ### 📷 Screenshots  
 *(Add screenshots of your game here)*  
 1. **Home Screen**:
-<img scr="https://github.com/ManishKumarPatel07/mathsgame/blob/main/MATHsNINJA/img/homepage.png">
+<img src="https://github.com/ManishKumarPatel07/mathsgame/blob/main/MATHsNINJA/img/homepage.png">
 
 3. **Gameplay**:
 <img src="https://github.com/ManishKumarPatel07/mathsgame/blob/main/MATHsNINJA/img/mul.png">
